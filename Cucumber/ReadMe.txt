@@ -1,4 +1,4 @@
-﻿Answers to eAnswers to exercise questions.
+﻿Answers to exercise questions.
 
 1)	See solution.
 
